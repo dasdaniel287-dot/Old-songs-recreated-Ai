@@ -1,0 +1,6 @@
+{
+  "name": "SurNob - AI Vintage to Modern Music Studio",
+  "description": "Transform vintage and classic songs into cutting-edge modern productions while preserving original melody, lyrics, and emotional soul. Features stem separation, 11 modern genres, A/B comparison, and Bangla/English bilingual interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
